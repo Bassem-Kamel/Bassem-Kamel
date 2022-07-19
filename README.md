@@ -8,7 +8,7 @@
 
 
 
-<h3 align="center">Devops Engineer with hands-on experience in provisioning infrastructure on major cloud service providers and developing CI/CD pipelines. Having good understanding of container orchestration.Seeking to apply this knowledge to help the company deploy and manage new products as well as improve my own skills. </h3>
+<h3 align="center">Devops Engineer with hands-on experience in provisioning infrastructure on major cloud service providers and developing CI/CD pipelines. Good understanding of containerization and container orchestration. Seeking to apply my knowledge to help the company deploy and manage new products as well as improve my own skills. </h3>
 <h3>  <br> </h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
